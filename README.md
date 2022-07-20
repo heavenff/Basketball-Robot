@@ -1,2 +1,2 @@
-# heaven
-Liberal arts students in Engineering
+# 篮球机器人
+开发的篮球机器人的代码，基于LabVIEW。可以控制篮球机器人找球、运球、投篮等。
